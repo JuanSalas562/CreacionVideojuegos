@@ -34,31 +34,31 @@
 
 ## Código Fuente
 
-* <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1">Lección 1</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1/Tutorial">Tutorial</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1/Laboratorio">Laboratorio</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1/Desafío">Desafío</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion1/Prueba">Prueba</a>
-* <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2">Lección 2</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2/Tutorial">Tutorial</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2/Laboratorio">Laboratorio</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2/Desafío">Desafío</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion2/Prueba">Prueba</a>
-* <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3">Lección 3</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3/Tutorial">Tutorial</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3/Laboratorio">Laboratorio</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3/Desafío">Desafío</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion3/Prueba">Prueba</a>
+* <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Lecci%C3%B3n1">Lección 1</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Lecci%C3%B3n1/Tutorial">Tutorial</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Lecci%C3%B3n1/Laboratorio">Laboratorio</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Lecci%C3%B3n1/Desafio">Desafío</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Lecci%C3%B3n1/Prueba">Prueba</a>
+* <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion2">Lección 2</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion2/Tutorial">Tutorial</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion2/Laboratorio">Laboratorio</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion2/Desafio">Desafío</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion2/Prueba">Prueba</a>
+* <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion3">Lección 3</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion3/Tutorial">Tutorial</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion3/Laboratorio">Laboratorio</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion3/Desafio">Desafío</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion3/Prueba">Prueba</a>
 * Lección 4
   * > Tutorial<a href=""></a>
   * > Laboratorio<a href=""></a>
   * > Desafío<a href=""></a>
   * > Prueba<a href=""></a>
-* <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5">Lección 5</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5/Tutorial">Tutorial</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5/Laboratorio">Laboratorio</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5/Desafío">Desafío</a>
-  * > <a href="https://github.com/Alex32451756/CreacionVideoJuegos/tree/main/Leccion5/Prueba">Prueba</a>
+* <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion5">Lección 5</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion5/Tutorial">Tutorial</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion5/Laboratorio">Laboratorio</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion5/Desafio">Desafío</a>
+  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion5/Prueba">Prueba</a>
 * VideoJuego
 
 ## Planificación
