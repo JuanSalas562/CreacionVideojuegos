@@ -24,8 +24,15 @@
 ## Introducción
 
 - Nombre del proyecto
+    <p> ZOMBIE CITY </p>
 - Objetivo.
+    <p> Correr por la ciudad matando los zombies y lograr una buena puntuación sin chocar con un zombie u obstaculo </p>
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
+    <p> La plataforma: Es un juego elaborado en 3D </p>
+    <p> Genero: Es un juego de Acción y Aventura </p>
+    <p> Clasificación: Es para personas mayores de 12 años</p>
+    <p> Personajes: Zombies(Este es el enemigo). Cazador(Este es el player principal) </p>
+    <p> Escenario: Nuestro ecenario es un Background de una ciudad </p>
 - Historia
 - Personajes
 - Reglas de Juego.
