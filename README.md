@@ -112,6 +112,7 @@
   * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion5/Desafio">Desafío</a>
   * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion5/Prueba">Prueba</a>
 * VideoJuego
+  * > <a href="https://github.com/john-055/ZombieCity">Prueba</a>
 
 ## Planificación
 
