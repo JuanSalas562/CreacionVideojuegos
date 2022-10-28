@@ -59,8 +59,7 @@
     <b> Si el zombie u obstaculo tocan al personaje, este debera morir.</b>
     
 - Pantallas de Juego
-- 
-    <b href="https://github.com/john-055/ZombieCity"> Se puede descargar el siguiente (unitypackage). En el cual se puede ver el avance y pantallas actuales del juego </>b
+    <b href="https://github.com/john-055/ZombieCity"> Se puede descargar el siguiente (unitypackage). En el cual se puede ver el avance y pantallas actuales del juego </b>
     
 - Plan de creación de VideoJuego.
 
