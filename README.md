@@ -42,6 +42,11 @@
     <b> Escenario: Nuestro ecenario es un Background de una ciudad. </b>
 - Historia
 
+    <b>Un dia normal se desarrollo una infección la cual convertia a las personas en zombies. Es decir, personas muertas con ganas de comer carne humana. Esta infección ocurrio en la ciudad de New York. 
+    En la ciudad vive un cazador el cual paso su adelecencia entrenando y preparandose para ser un cazador Prefesional. Este cazador quiere salir de la ciudad, asi que recorre el camino hasta la salida. Durante el proceso de salida, el cazador se enfrentara con zombies y obstaculos que evitaran que cumpla su objetivo
+    
+    ZOMBIE CITY es un juego que nos permite disparar y saltar de manera continua para poder sobrevivir.</b>
+
 - Personajes
 
     <b> El cazador: Es el personaje principal del juego.</b>
@@ -63,6 +68,21 @@
     <a href="https://github.com/john-055/ZombieCity"> Se puede descargar el siguiente (unitypackage). En el cual se puede ver el avance y pantallas actuales del juego </a>
     
 - Plan de creación de VideoJuego.
+
+    <b>Paso 1: Primeramente nos enfocamos en buscar un juego que nos llamara la atención. En el cual pudieramos divertirnos y enfocarnos..</b>
+    
+    <b>Paso 2: Comenzamos la esctructura incial del proyecto.</b>
+    
+    <b>Paso 3: Buscamos información, componentes, assets, estructura, testxturas entre otras cosas mas.</b>
+    
+    <b>Paso 4: Comenzaremos a exportar a nuestro proyecto todo lo del paso 3</b>
+    
+    <b>Paso 5: Una vez teniendo lo necesario para poder comenzar a trabajar. Inciamos creando la vista de nuestro juego. Es decir la pantalla principal.</b>
+    
+    <b>Paso 6: Agregamos personajes, texturas, obstaculos entre otras cosas mas</b>
+    
+    <b>Paso7: En este paso comenzaremos a desarrollar lo que son los scripts para el funcionamiento del juego</b>
+    
 
 ## Código Fuente
 
