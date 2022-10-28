@@ -24,18 +24,30 @@
 ## Introducción
 
 - Nombre del proyecto
-    <p> ZOMBIE CITY </p>
+
+    <b> ZOMBIE CITY </b>
 - Objetivo.
-    <p> Correr por la ciudad matando los zombies y lograr una buena puntuación sin chocar con un zombie u obstaculo </p>
+
+    <b> Correr por la ciudad matando los zombies y lograr una buena puntuación sin chocar con un zombie u obstaculo. </b>
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
-    <p> La plataforma: Es un juego elaborado en 3D </p>
-    <p> Genero: Es un juego de Acción y Aventura </p>
-    <p> Clasificación: Es para personas mayores de 12 años</p>
-    <p> Personajes: Zombies(Este es el enemigo). Cazador(Este es el player principal) </p>
-    <p> Escenario: Nuestro ecenario es un Background de una ciudad </p>
+
+    <b> La plataforma: Es un juego elaborado en 3D. </b>
+    <b> Genero: Es un juego de Acción y Aventura. </b>
+    <b> Clasificación: Es para personas mayores de 12 años.</b>
+    <b> Personajes: Zombies(Este es el enemigo). Cazador(Este es el player principal). </b>
+    <b> Escenario: Nuestro ecenario es un Background de una ciudad. </b>
 - Historia
+
 - Personajes
+<b> El cazador(player) solo puede correr hacia adelante en una dirección horizontal derecha.</b>
+
 - Reglas de Juego.
+
+    <b> El cazador(player) solo puede correr hacia adelante en una dirección horizontal derecha.</b>
+    <b> El cazador(player) solo puede saltar sobre los obstaculos. Pero no sobre los zombies.</b>
+    <b> Si el cazador dispara a un zombie. El zombie debe morir.</b>
+    <b> Si el zombie u obstaculo tocan al personaje. Este debera morir.</b>
+    
 - Pantallas de Juego
 - Plan de creación de VideoJuego.
 
