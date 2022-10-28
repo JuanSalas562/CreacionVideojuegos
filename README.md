@@ -44,7 +44,7 @@
 
 - Personajes
 
-    <b> El cazador: El cual es el personaje principal del juego.</b>
+    <b> El cazador: Es el personaje principal del juego.</b>
     
     <b> Los zombies: Son los enemigos que aparecen durante el camino de la ciudad. Para matar al cazador.</b>
 
@@ -52,14 +52,15 @@
 
     <b> El cazador(player) solo puede correr hacia adelante en una dirección horizontal derecha.</b>
     
-    <b> El cazador(player) solo puede saltar sobre los obstaculos. Pero no sobre los zombies.</b>
+    <b> El cazador(player) solo puede saltar sobre los obstaculos. pero no sobre los zombies.</b>
     
-    <b> Si el cazador dispara a un zombie. El zombie debe morir.</b>
+    <b> Si el cazador dispara a un zombie, el zombie debe morir.</b>
     
-    <b> Si el zombie u obstaculo tocan al personaje. Este debera morir.</b>
+    <b> Si el zombie u obstaculo tocan al personaje, este debera morir.</b>
     
 - Pantallas de Juego
-    <a href="https://github.com/john-055/ZombieCity"> Se puede descargar el siguiente (unitypackage). En el cual se puede ver el avance y pantallas actuales del juego </a>
+- 
+    <b href="https://github.com/john-055/ZombieCity"> Se puede descargar el siguiente (unitypackage). En el cual se puede ver el avance y pantallas actuales del juego </>b
     
 - Plan de creación de VideoJuego.
 
