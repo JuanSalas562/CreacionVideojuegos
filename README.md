@@ -32,23 +32,35 @@
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
 
     <b> La plataforma: Es un juego elaborado en 3D. </b>
+    
     <b> Genero: Es un juego de Acción y Aventura. </b>
+    
     <b> Clasificación: Es para personas mayores de 12 años.</b>
+    
     <b> Personajes: Zombies(Este es el enemigo). Cazador(Este es el player principal). </b>
+    
     <b> Escenario: Nuestro ecenario es un Background de una ciudad. </b>
 - Historia
 
 - Personajes
-<b> El cazador(player) solo puede correr hacia adelante en una dirección horizontal derecha.</b>
+
+    <b> El cazador: El cual es el personaje principal del juego.</b>
+    
+    <b> Los zombies: Son los enemigos que aparecen durante el camino de la ciudad. Para matar al cazador.</b>
 
 - Reglas de Juego.
 
     <b> El cazador(player) solo puede correr hacia adelante en una dirección horizontal derecha.</b>
+    
     <b> El cazador(player) solo puede saltar sobre los obstaculos. Pero no sobre los zombies.</b>
+    
     <b> Si el cazador dispara a un zombie. El zombie debe morir.</b>
+    
     <b> Si el zombie u obstaculo tocan al personaje. Este debera morir.</b>
     
 - Pantallas de Juego
+    <a href="https://github.com/john-055/ZombieCity"> Se puede descargar el siguiente (unitypackage). En el cual se puede ver el avance y pantallas actuales del juego </a>
+    
 - Plan de creación de VideoJuego.
 
 ## Código Fuente
