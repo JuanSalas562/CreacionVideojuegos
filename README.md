@@ -120,6 +120,7 @@
 
 ## Autores
 Cabello Salas Juan Carlos
+Mendez Lopez Jonathan Anselmo
 
 ## Copyright
 Derechos Reservados 2022
