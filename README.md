@@ -33,7 +33,7 @@
 
     <b> La plataforma: Es un juego elaborado en 3D. Que utilizara una base de datos para almacenar información(El puntuaje del jugador). </b>
     
-    <b> Genero: Es un juego de Acción y Aventura. </b>
+    <b> Genero: Es un juego de Acción y Aventura.</b>
     
     <b> Clasificación: Es para personas mayores de 12 años.</b>
     
