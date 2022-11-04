@@ -39,11 +39,15 @@
     
     <b> Personajes: Zombies(Este es el enemigo). Cazador(Este es el player principal). </b>
     
-    <b> Escenario: Nuestro ecenario es un Background de una ciudad. </b>
+    <b> Escenario: Nuestro ecenario constara de 3 niveles.</b>
+    
+    <p> Nivel 1: El primero de ellos es un ecenerio con un Background de una ciudad y los enemigos tendran una velocidad normal</p>
+    <p> Nivel 2: El primero de ellos es un ecenerio con un Background de un bosque y los enemigos tendran una velocidad un poco elevada</p>
+    <p> Nivel 3: El primero de ellos es un ecenerio con un Background de un decierto y los enemigos tendran una velocidad muy elevada y se generaran mas enemigos</p>
 - Historia
 
     <b>Un dia normal se desarrollo una infección la cual convertia a las personas en zombies. Es decir, personas muertas con ganas de comer carne humana. Esta infección ocurrio en la ciudad de New York. 
-    En la ciudad vive un cazador el cual paso su adelecencia entrenando y preparandose para ser un cazador Prefesional. Este cazador quiere salir de la ciudad, asi que recorre el camino hasta la salida. Durante el proceso de salida, el cazador se enfrentara con zombies y obstaculos que evitaran que cumpla su objetivo
+    En la ciudad vive un cazador el cual paso su adolecencia entrenando y preparandose para ser un cazador Prefesional. Este cazador quiere salir de la ciudad, asi que recorre el camino hasta la salida. Durante el proceso de salida, el cazador se enfrentara con zombies y obstaculos que evitaran que cumpla su objetivo
     
     ZOMBIE CITY es un juego que nos permite disparar y saltar de manera continua para poder sobrevivir.</b>
 
