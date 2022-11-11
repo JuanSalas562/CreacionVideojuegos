@@ -39,11 +39,11 @@
     
     <b> Personajes: Zombies(Este es el enemigo). Cazador(Este es el player principal). </b>
     
-    <b> Escenario: Nuestro ecenario comienza con una interfaz de inicio, en el cual nuestro jugador podra seleccionar 3 niveles de jugabilidad.</b>
+    <b> Escenario: Nuestro escenario comienza con una interfaz de inicio, en el cual nuestro jugador podra seleccionar 3 niveles de jugabilidad.</b>
     
-    <p> Nivel 1: El primero de ellos es un ecenerio con un Background de una ciudad y los enemigos tendran una velocidad normal</p>
-    <p> Nivel 2: El segundo de ellos es un ecenerio con un Background de un bosque y los enemigos tendran una velocidad un poco elevada</p>
-    <p> Nivel 3: El tercero de ellos es un ecenerio con un Background de un decierto y los enemigos tendran una velocidad muy elevada y se generaran mas enemigos</p>
+    <p> Nivel 1: El primero de ellos es un escenerio con un Background de una ciudad y los enemigos tendran una velocidad normal</p>
+    <p> Nivel 2: El segundo de ellos es un escenerio con un Background de un bosque y los enemigos tendran una velocidad un poco elevada</p>
+    <p> Nivel 3: El tercero de ellos es un escenerio con un Background de un decierto y los enemigos tendran una velocidad muy elevada y se generaran mas enemigos</p>
 - Historia
 
     <b>Un dia normal se desarrollo una infección la cual convertia a las personas en zombies. Es decir, personas muertas con ganas de comer carne humana. Esta infección ocurrio en la ciudad de New York. 
